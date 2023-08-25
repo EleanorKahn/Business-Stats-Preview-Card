@@ -10,21 +10,10 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
-
-Your challenge is to build out this card component and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
 ## Goals
-To find a workaround for controlling the opacity of an image/image overlay
+- utilize image overlay techniques
+- improve my CSS skills through copy work 
 
 ## What I used
--HTML5
--CSS3
+- HTML5
+- CSS3
